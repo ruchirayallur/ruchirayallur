@@ -1,116 +1,250 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,34&height=180&section=header&text=Ruchira%20Yallur&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,30,14,64&height=180&section=header&text=Ruchira%20Yallur&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%20Enthusiast&descSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
 
+  <!-- Typing SVG Headline -->
   <a href="https://github.com/ruchirayallur">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Ruchira+Yallur!;%F0%9F%93%8A+Data+Analyst+%7C+Python+%26+SQL+Developer;%F0%9F%A7%A0+Transforming+Raw+Data+into+Actionable+Insights;%F0%9F%9A%80+Building+Data-Driven+%26+ML+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%93%8A+Data+Analyst+%7C+Python+%26+SQL+Developer;%F0%9F%A7%A0+Transforming+Raw+Data+into+Actionable+Business+Insights;%F0%9F%9A%80+Exploring+Machine+Learning+%26+Predictive+Analytics" alt="Typing SVG" />
   </a>
 
+  <!-- Quick Action Navigation Bar -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ruchirayallur&label=Profile%20Views&color=792ee5&style=flat-square" alt="Profile Views" />
-    <a href="https://github.com/ruchirayallur/Resume-/blob/main/Ruchira_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-007ACC?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
-    <a href="mailto:ruchirayallur@gmail.com"><img src="https://img.shields.io/badge/Email-ruchirayallur%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/ruchirayallur?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11+-success?style=flat-square&logo=github&logoColor=white" alt="Repos" /></a>
+    <a href="https://github.com/ruchirayallur/Resume-/blob/main/Ruchira_Resume.pdf">
+      <img src="https://img.shields.io/badge/📄_View_Resume-PDF-007ACC?style=for-the-badge&logoColor=white" alt="Resume PDF" />
+    </a>
+    &nbsp;
+    <a href="mailto:ruchirayallur@gmail.com">
+      <img src="https://img.shields.io/badge/✉️_Get_in_Touch-ruchirayallur%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/ruchirayallur?tab=repositories">
+      <img src="https://img.shields.io/badge/📂_Repositories-12_Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=ruchirayallur&label=Profile%20Views&color=792ee5&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 💫 About Me
+### 💡 Executive Overview
 
-Detail-oriented **Data Analyst & Python Developer** passionate about turning complex, messy data into clean, actionable business decisions. Experienced with end-to-end data pipelines, exploratory analysis, predictive modeling, and interactive dashboards.
-
-- 🎓 **Education:** 
-  - **Master of Computer Applications (MCA)** — *BMS Institute of Technology & Management, Bangalore* (2025 – 2027)
-  - **Bachelor of Computer Applications (BCA)** — *Dayananda Sagar University, Bangalore* (2022 – 2025)
-- 📊 **What I Do:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Machine Learning, and KPI Visualization
-- 🔭 **Current Focus:** Deep-diving into Advanced Data Analytics, Predictive Modeling with Scikit-learn, and Interactive Dashboards (Power BI & Streamlit)
-- 📍 **Location:** Bangalore, India
-- 📄 **Resume:** [View / Download PDF Resume](https://github.com/ruchirayallur/Resume-/blob/main/Ruchira_Resume.pdf)
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4>🎯 Professional Summary</h4>
+      <p>
+        Detail-oriented <b>Data Analyst & Python Developer</b> with a solid grounding in statistical data analysis, machine learning fundamentals, exploratory analytics, and interactive dashboard engineering.
+      </p>
+      <p>
+        Passionate about taking noisy, complex datasets and structuring them into clear, actionable business stories that drive data-backed decisions.
+      </p>
+      <p>
+        Currently seeking opportunities to apply statistical rigor, modern analytics tools, and clean code to solve real-world industry problems.
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h4>📍 Quick Highlights</h4>
+      <ul>
+        <li>🎓 <b>Master of Computer Applications (MCA)</b><br/><i>BMS Institute of Technology & Management</i> (2025 – 2027)</li>
+        <li>🎓 <b>Bachelor of Computer Applications (BCA)</b><br/><i>Dayananda Sagar University</i> (2022 – 2025)</li>
+        <li>📍 <b>Location:</b> Bangalore, Karnataka, India</li>
+        <li>💼 <b>Core Strengths:</b> EDA, Data Cleaning, Statistical Testing, Predictive Modeling, KPI Dashboards</li>
+        <li>📄 <b>Resume Repository:</b> <a href="https://github.com/ruchirayallur/Resume-">ruchirayallur/Resume-</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🧠 Core Domains of Expertise
 
-#### 💻 Programming & Query Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>📊</h3>
+      <b>Exploratory & Statistical Analysis</b>
+      <p align="left">
+        Data scrubbing, missing-value imputation, outlier detection, hypothesis testing, and pattern discovery using <b>Pandas</b>, <b>NumPy</b>, and <b>SciPy</b>.
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📈</h3>
+      <b>BI & KPI Visualization</b>
+      <p align="left">
+        Interactive executive dashboards, DAX measures, trend charts, and sales funnel modeling using <b>Power BI</b>, <b>Excel</b>, and <b>Streamlit</b>.
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🤖</h3>
+      <b>Machine Learning & Databases</b>
+      <p align="left">
+        Predictive classification, linear/logistic regression with <b>Scikit-learn</b>, alongside advanced SQL queries, window functions, and joins on <b>PostgreSQL/MySQL</b>.
+      </p>
+    </td>
+  </tr>
+</table>
 
-#### 📊 Data Analytics, Machine Learning & BI
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+---
+
+### 🛠️ Technical Stack & Tooling
+
+#### ⚡ Core Technologies & Frameworks
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,mysql,pandas,numpy,scikitlearn,js,html,css,c,git,github,vscode,androidstudio" alt="Skill Icons" />
+  </a>
+</div>
+
+<br/>
+
+#### 📊 Business Intelligence & Analytics Suite
+<p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-#### 🗄️ Databases & Developer Environment
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Core Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🥗 **NutriGuard** | Child Malnutrition Prediction & Monitoring System classifying risk using WHO standards & ML predictive models | `Python` `Streamlit` `Scikit-Learn` `Pandas` | [**Repo**](https://github.com/ruchirayallur/NutriGuard) |
-| 🛡️ **SafeHer** | Women's Safety Android App with Shake-to-SOS emergency dispatch, Safe Route Scoring & hazard reporting | `Kotlin` `Android SDK` `Google Maps` `OSRM` | [**Repo**](https://github.com/ruchirayallur/safeher) |
-| 📈 **StockApp** | Financial tracking and stock analysis application built for streamlined market data inspection | `Python` `Data Analytics` | [**Repo**](https://github.com/ruchirayallur/stockapp) |
-| 🛒 **SQL Retail Sales** | End-to-end retail sales exploratory analysis, customer segmentation, and trend identification | `SQL` `PostgreSQL` `Data Cleaning` | [**Repo**](https://github.com/ruchirayallur/sql_retail_sales_p1) |
-| 📱 **HabiTrack Desktop** | Desktop application for daily productivity, routine tracking, and habit analytics | `Python` `PyQt5` `SQLite` | [**Repo**](https://github.com/ruchirayallur/habitrack-desktop) |
-| 📄 **Resume Repository** | Dedicated repository hosting official resume PDF, credentials, and career background | `PDF` `Documentation` | [**Repo**](https://github.com/ruchirayallur/Resume-) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥗 <a href="https://github.com/ruchirayallur/NutriGuard">NutriGuard</a></h3>
+      <b>Child Malnutrition Prediction & Monitoring System</b>
+      <p>
+        End-to-end web analytics platform built with Streamlit. Ingests anthropometric health datasets (age, height, weight, BMI) and classifies nutritional risk (Normal, Moderate, Severe) based on WHO standards.
+      </p>
+      <p>
+        <b>Highlights:</b> Exploratory data analysis, interactive demographic risk distributions, and Scikit-learn predictive risk scoring with automated health recommendations.
+      </p>
+      <p>
+        <code>Python</code> <code>Streamlit</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>Seaborn</code>
+      </p>
+      <a href="https://github.com/ruchirayallur/NutriGuard"><b>👉 View NutriGuard Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/ruchirayallur/safeher">SafeHer</a></h3>
+      <b>Women's Safety & Smart Navigation Application</b>
+      <p>
+        Full-featured Android safety app incorporating a Shake-to-SOS emergency dispatch system, real-time safe spot locator via Google Maps API, and incident hazard reporting.
+      </p>
+      <p>
+        <b>Highlights:</b> Intelligent Safe Route Scoring algorithm utilizing OSRM and time-of-day hazard weights, accompanied by trip analytics dashboards powered by Chart.js.
+      </p>
+      <p>
+        <code>Kotlin</code> <code>Android SDK</code> <code>Google Maps API</code> <code>OSRM</code> <code>Chart.js</code>
+      </p>
+      <a href="https://github.com/ruchirayallur/safeher"><b>👉 View SafeHer Repository</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/ruchirayallur/sql_retail_sales_p1">SQL Retail Sales Analytics</a></h3>
+      <b>Comprehensive Retail Performance & Customer Insights</b>
+      <p>
+        Extensive exploratory SQL project analyzing retail transaction records to extract actionable business metrics, identify seasonal sales variations, and segment customer purchasing behaviors.
+      </p>
+      <p>
+        <b>Highlights:</b> Advanced aggregate queries, window functions, revenue attribution per category, and sales funnel analysis.
+      </p>
+      <p>
+        <code>SQL</code> <code>PostgreSQL</code> <code>Data Cleaning</code> <code>EDA</code>
+      </p>
+      <a href="https://github.com/ruchirayallur/sql_retail_sales_p1"><b>👉 View SQL Retail Sales Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/ruchirayallur/stockapp">StockApp</a></h3>
+      <b>Financial & Stock Market Data Tracker</b>
+      <p>
+        Python-powered financial analytics tool designed to monitor and inspect stock price variations, moving trends, and market patterns for active traders and analysts.
+      </p>
+      <p>
+        <b>Highlights:</b> Clean data visualization of historic trends, metrics tracking, and intuitive user interface.
+      </p>
+      <p>
+        <code>Python</code> <code>Data Analytics</code> <code>Financial Modeling</code>
+      </p>
+      <a href="https://github.com/ruchirayallur/stockapp"><b>👉 View StockApp Repository</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/ruchirayallur/habitrack-desktop">HabiTrack Desktop</a></h3>
+      <b>Personal Productivity & Habit Monitoring Software</b>
+      <p>
+        Desktop productivity application for managing daily goals, tracking consistency streaks, and visualizing habit performance over time.
+      </p>
+      <p>
+        <b>Highlights:</b> Persistent local database storage, graphical user interface built with PyQt5, and completion analytics.
+      </p>
+      <p>
+        <code>Python</code> <code>PyQt5</code> <code>SQLite</code> <code>GUI Development</code>
+      </p>
+      <a href="https://github.com/ruchirayallur/habitrack-desktop"><b>👉 View HabiTrack Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/ruchirayallur/Resume-">Resume Repository</a></h3>
+      <b>Official Professional Resume & Career Profile</b>
+      <p>
+        Dedicated GitHub repository hosting the latest verified copy of my professional resume in PDF format, alongside technical background and credentials.
+      </p>
+      <p>
+        <b>Highlights:</b> Clean PDF download, version-controlled updates, and career milestones overview.
+      </p>
+      <p>
+        <code>PDF</code> <code>Career Milestones</code> <code>Documentation</code>
+      </p>
+      <a href="https://github.com/ruchirayallur/Resume-"><b>👉 View Resume Repository</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📜 Certifications & Achievements
+### 📜 Certifications & Accreditations
 
-- 🏅 **Oracle Certified Foundations Associate** — *Oracle University*
-- 🏅 **Data Analysis with Python** — *IBM (CognitiveClass.ai)*
-- 🏅 **JavaScript & C** — *HackerRank*
-- 🏅 **Intro to Data Analytics** — *Great Learning*
-- 🏅 **Front-End Development (HTML)** — *Great Learning Academy*
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>🏅 Oracle Certified Foundations Associate</b><br/>
+      <i>Oracle University</i>
+    </td>
+    <td width="50%">
+      <b>🏅 Data Analysis with Python</b><br/>
+      <i>IBM (CognitiveClass.ai)</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🏅 Problem Solving, JavaScript & C</b><br/>
+      <i>HackerRank</i>
+    </td>
+    <td width="50%">
+      <b>🏅 Intro to Data Analytics & Front-End</b><br/>
+      <i>Great Learning & Great Learning Academy</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Live Analytics
+### 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ruchirayallur&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ruchira's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchirayallur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p>Interested in collaborating on a data analytics project or discussing opportunities? Feel free to reach out!</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchirayallur&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="95%" />
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
   <a href="mailto:ruchirayallur@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -120,9 +254,10 @@ Detail-oriented **Data Analyst & Python Developer** passionate about turning com
   </a>
   &nbsp;
   <a href="https://github.com/ruchirayallur/Resume-/blob/main/Ruchira_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume_PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,34&height=100&section=footer" width="100%"/>
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,30,14,64&height=100&section=footer" width="100%"/>
 </div>
