@@ -2,34 +2,40 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,30,14,64&height=180&section=header&text=Ruchira%20Yallur&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%20Enthusiast&descSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
 
-  <!-- Typing SVG Headline -->
+  <br/><br/>
+
+  <!-- Single-line Animated Typing SVG (fixed height to prevent overlap) -->
   <a href="https://github.com/ruchirayallur">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%93%8A+Data+Analyst+%7C+Python+%26+SQL+Developer;%F0%9F%A7%A0+Transforming+Raw+Data+into+Actionable+Business+Insights;%F0%9F%9A%80+Exploring+Machine+Learning+%26+Predictive+Analytics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1200&color=9D4EDD&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Ruchira+Yallur!;%F0%9F%93%8A+Data+Analyst+%26+Python+Developer;%F0%9F%A7%A0+Transforming+Data+into+Actionable+Insights;%F0%9F%9A%80+Exploring+Machine+Learning+%26+BI+Dashboards" alt="Typing SVG" />
   </a>
 
-  <!-- Quick Action Navigation Bar -->
+  <br/><br/>
+
+  <!-- Compact Action Navigation Bar -->
   <p align="center">
     <a href="https://github.com/ruchirayallur/Resume-/blob/main/Ruchira_Resume.pdf">
-      <img src="https://img.shields.io/badge/📄_View_Resume-PDF-007ACC?style=for-the-badge&logoColor=white" alt="Resume PDF" />
+      <img src="https://img.shields.io/badge/Resume-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
     &nbsp;
     <a href="mailto:ruchirayallur@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Get_in_Touch-ruchirayallur%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://github.com/ruchirayallur?tab=repositories">
-      <img src="https://img.shields.io/badge/📂_Repositories-12_Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+      <img src="https://img.shields.io/badge/Projects-12+-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=ruchirayallur&label=Profile%20Views&color=792ee5&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ruchirayallur&label=Views&color=792ee5&style=for-the-badge" alt="Views" />
   </p>
 </div>
+
+<br/>
 
 ---
 
 ### 💡 Executive Overview
 
-<table>
+<table width="100%">
   <tr>
     <td width="55%" valign="top">
       <h4>🎯 Professional Summary</h4>
@@ -60,23 +66,23 @@
 
 ### 🧠 Core Domains of Expertise
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <h3>📊</h3>
       <b>Exploratory & Statistical Analysis</b>
       <p align="left">
         Data scrubbing, missing-value imputation, outlier detection, hypothesis testing, and pattern discovery using <b>Pandas</b>, <b>NumPy</b>, and <b>SciPy</b>.
       </p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <h3>📈</h3>
       <b>BI & KPI Visualization</b>
       <p align="left">
         Interactive executive dashboards, DAX measures, trend charts, and sales funnel modeling using <b>Power BI</b>, <b>Excel</b>, and <b>Streamlit</b>.
       </p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <h3>🤖</h3>
       <b>Machine Learning & Databases</b>
       <p align="left">
